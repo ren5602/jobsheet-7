@@ -20,9 +20,10 @@ public class DoWhileCuti19 {
                     System.out.println("Sisa jatah cuti: "+jatahCuti);
                 }else{
                     System.out.println("sisah jatah cuti tidak mencukupi");
-                    break;
+                    continue;
                 }
             }
+            else{break;}
         } while(jatahCuti > 0);
     }
 }

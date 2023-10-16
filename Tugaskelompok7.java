@@ -44,7 +44,7 @@ public class Tugaskelompok7 {
                 }
             }
             
-            if (isTersedia.equalsIgnoreCase("Buku B")) {
+            if (isTersedia.equalsIgnoreCase ("Buku B")) {
                     System.out.println("                              ");
                     System.out.println("Buku ini tersedia");
                     System.out.println("Apakah anda ingin menambahkan buku kedalam keranjang (ya/tidak) ? ");
